@@ -18,7 +18,7 @@ p_page = '''
 	<title>Inicio</title>
 </head>
 <body>
-	<center><article><big><h1 class="titulo" style="color: white;">Sistema Inteligente</h1></big></article></center>
+	<center><article><big><h1 class="titulo" style="color: white;">Sistema Experto</h1></big></article></center>
 	<center><a href="/start" style="color: white; "><button><h2>Comenzar</h2</button></a></center>
 	<aside class="Desc"><h1 class="titulo1" style="color: white;">Descripción del Proyecto</h1>
 		<p style="color: white;">Un sistema experto que pueda asesorar
